@@ -1,1 +1,1 @@
-AUTHOR1 (@GITHUB-USERNAME, ORCID-ID), AUTHOR2 (@GITHUB-USERNAME, ORCID-ID)
+Kris Stern, Kelle Cruz, Lia Corrales, David Shupe, Adrian Price-Whelan
